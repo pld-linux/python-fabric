@@ -9,7 +9,7 @@
 Summary:	Execute shell commands remotely over SSH, yielding useful Python objects in return
 Name:		python-%{module}
 Version:	2.5.0
-Release:	4
+Release:	5
 License:	- (enter GPL/GPL v2/GPL v3/LGPL/BSD/BSD-like/other license name here)
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/fabric/%{pypi_name}-%{version}.tar.gz
