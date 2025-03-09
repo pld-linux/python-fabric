@@ -31,7 +31,7 @@ BuildRequires:	python3-setuptools
 %if %{with tests}
 BuildRequires:	python3-invoke
 BuildRequires:	python3-paramiko
-%endif%
+%endif
 %endif
 Requires:	python-modules
 BuildArch:	noarch
